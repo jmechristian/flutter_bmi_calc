@@ -1,11 +1,10 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/jchristian/Developer/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/jchristian/Documents/Development/bmi-calculator-flutter"
-export "FLUTTER_TARGET=/Users/jchristian/Documents/Development/bmi-calculator-flutter/lib/main.dart"
+export "FLUTTER_ROOT=C:\flutter\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Jamie Christian\Documents\Development\Flutter\flutter_bmi_calc-master\flutter_bmi_calc-master"
+export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
-export "SYMROOT=${SOURCE_ROOT}/../build/ios"
-export "FLUTTER_FRAMEWORK_DIR=/Users/jchristian/Developer/flutter/bin/cache/artifacts/engine/ios"
+export "SYMROOT=${SOURCE_ROOT}/../build\ios"
+export "FLUTTER_FRAMEWORK_DIR=C:\flutter\flutter\bin\cache\artifacts\engine\ios"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
-export "TRACK_WIDGET_CREATION=true"
